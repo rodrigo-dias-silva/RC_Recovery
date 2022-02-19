@@ -398,3 +398,18 @@ section{
         padding-top: 25%;
     }
 }
+@media screen and (max-width: 400px){
+    .title{
+        font-size: 1.5rem;
+    }
+    .content-doubts-question-h3{
+        font-size: 1rem;
+    }
+    .content-doubts-answer{
+        font-size: 0.8rem;
+    }
+    .content-social-icons img{
+        transition: all 0.5s;
+        height: 80px;
+    }
+}
